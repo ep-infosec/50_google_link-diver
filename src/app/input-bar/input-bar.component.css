@@ -1,0 +1,22 @@
+.search-bar {
+    width: 100%;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+}
+
+input {
+    border-width: 1px;
+    padding: 5px 10px;
+    border-color: black;
+    flex: 1 1 auto;
+}
+
+input:focus {
+    outline: none;
+    border-width: 2px;
+}
+
+button {
+    margin-left: 5px;
+}

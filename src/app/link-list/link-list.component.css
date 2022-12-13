@@ -1,0 +1,14 @@
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    overflow-x: scroll;
+    white-space: normal;
+}
+
+li:nth-child(even) {
+    background-color: #eee
+}

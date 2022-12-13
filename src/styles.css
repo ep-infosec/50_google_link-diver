@@ -1,0 +1,12 @@
+@import '@angular/material/prebuilt-themes/deeppurple-amber.css';
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.red {
+    color: red;
+    font-weight: bold;
+}
